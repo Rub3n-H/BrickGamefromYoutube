@@ -1,2 +1,0 @@
-# BrickGamefromYoutube
-Created with CodeSandbox
